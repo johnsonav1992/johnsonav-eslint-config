@@ -34,8 +34,5 @@
   "peerDependencies": {
     "eslint": "^8.50.0"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": "https://github.com/johnsonav1992/johnson-eslint-config"
 }
