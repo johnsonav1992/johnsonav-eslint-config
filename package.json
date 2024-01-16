@@ -1,7 +1,7 @@
 {
-  "name": "johnson-eslint-config",
-  "version": "0.0.2",
-  "description": "",
+  "name": "@johnsonav/eslint-config",
+  "version": "0.0.3",
+  "description": "Alex Johnson's eslint config",
   "main": "index.js",
   "files": [
     "index.js",
