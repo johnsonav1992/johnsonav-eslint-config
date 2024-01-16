@@ -1,6 +1,6 @@
 {
-  "name": "@veryable/eslint-config-veryable-frontend",
-  "version": "0.0.7",
+  "name": "johnson-eslint-config",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "files": [
@@ -35,6 +35,6 @@
     "eslint": "^8.50.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@Veryable"
+    "registry": "https://npm.pkg.github.com"
   }
 }
