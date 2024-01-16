@@ -1,0 +1,58 @@
+# JavaScript & TypeScript rules
+
+## Rules
+
+- **indent**: Enforces 4-space indents and errors on mixed tabs/spaces.
+- **max-len**: Enforces a maximum line length of 80 characters.
+- **comma-spacing**: Enforces 1 space after commas and no space before.
+- **comma-dangle**: Disallows trailing commas after the last element or property of an object or array.
+- **quotes**: Enforces single quotes.
+- **linebreak-style**: Enforces Unix linebreaks.
+- **space-before-blocks**: Enforces space before block statements.
+- **arrow-spacing**: Enforces spacing around arrows.
+- **key-spacing**: Enforces spacing around brackets of computed properties in objects.
+- **arrow-parens**: Enforces parenthesis around arrow function parameters as needed.
+- **space-in-parens**: Enforces spacing inside parenthesis.
+- **array-bracket-spacing**: Enforces spacing inside brackets.
+- **computed-property-spacing**: Enforces spacing inside brackets of computed properties in objects.
+- **object-curly-spacing**: Enforces spacing inside curly braces.
+- **object-curly-newline**: Enforces new lines for object properties if there are more than 2.
+- **import-newlines/enforce**: Enforces newlines for destructured imports if there are more than 2.
+- **object-property-newline**: Enforces newlines for object properties.
+- **prefer-template**: Prefers template literals over string concatenation.
+- **template-curly-spacing**: Enforces spacing around template literal curly braces.
+- **brace-style**: Enforces one true brace style.
+- **strict**: Requires 'use strict' pragma.
+- **space-before-function-paren**: Enforces space before function parentheses.
+- **semi**: Requires semicolons.
+- **eol-last**: Enforces newline at end of file.
+- **semi-spacing**: Enforces spacing after semicolons but not before.
+- **semi-style**: Enforces semicolon at the end of a line.
+- **no-extra-semi**: Disallows unnecessary semicolons.
+- **keyword-spacing**: Enforces spacing after keywords.
+- **comma-style**: Enforces leading commas.
+- **operator-linebreak**: Enforces linebreaks before and after operators.
+- **space-infix-ops**: Enforces spacing around infix operators.
+- **no-multi-spaces**: Disallows multiple spaces.
+- **no-trailing-spaces**: Disallows trailing spaces.
+- **block-spacing**: Enforces spacing around block braces.
+- **max-lines**: Enforces a limit of 750 lines per file.
+- **jsx-quotes**: Enforces single quotes for JSX attributes.
+- **no-unneeded-ternary**: Disallows unnecessary ternary operators.
+- **multiline-ternary**: Enforces multiline ternary operators.
+- **no-case-declarations**: Allows variable declaration inside a case block.
+- **no-unsafe-finally**: Allows control flow statements in finally blocks.
+- **no-unreachable**: Warns on unreachable code.
+- **no-undef**: Warns on undefined variables.
+- **no-empty-pattern**: Warns on empty destructuring patterns.
+- **no-multiple-empty-lines**: Disallows more than 1 empty line.
+- **@typescript-eslint/semi**: Enforces semi-colon usage.
+- **@typescript-eslint/member-delimiter-style**: Enforces semi-colon as the delimiter for interfaces and types.
+- **@typescript-eslint/type-annotation-spacing**: Enforces spacing around type annotations.
+- **@typescript-eslint/no-unused-vars**: Warns on unused variables.
+- **@typescript-eslint/ban-ts-comment**: Warns on ts-ignore comments.
+- **@typescript-eslint/ban-types**: Warns when using banned types.
+- **@typescript-eslint/no-empty-interface**: Warns when using an empty interface.
+- **@typescript-eslint/no-empty-function**: Warns when using an empty function.
+- **no-autofix/unused-imports/no-unused-imports**: Error on unused imports.
+- **newline-destructuring/newline**: Enforces newlines for destructured objects.

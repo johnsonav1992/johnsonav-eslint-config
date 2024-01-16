@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "./index"
+  ],
+  "plugins": [
+  ],
+  "globals": {
+    "globalThis": false
+    , "JSX":"readonly"
+  }
+}
