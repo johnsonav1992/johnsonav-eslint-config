@@ -34,5 +34,5 @@
   "peerDependencies": {
     "eslint": "^8.50.0"
   },
-  "repository": "https://github.com/johnsonav1992/johnson-eslint-config"
+  "repository": "https://github.com/johnsonav1992/johnsonav-eslint-config"
 }
