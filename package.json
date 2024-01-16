@@ -1,5 +1,5 @@
 {
-  "name": "@johnsonav/eslint-config",
+  "name": "johnsonav-eslint-config",
   "version": "0.0.3",
   "description": "Alex Johnson's eslint config",
   "main": "index.js",
