@@ -1,3 +1,3 @@
-# Rules - 
-- ## [JavaScript & TypeScript](./docs/js_ts.md)
-- ## [React](./docs/react.md)
+### Alex J's ES Lint Config
+
+A set of rules for my own ES Lint configuration
