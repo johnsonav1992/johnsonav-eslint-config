@@ -1,6 +1,6 @@
 /**
  * This module exports an object containing ESLint rules for a frontend project.
- * @module eslint-config-veryable-frontend/rules/base
+ * @module johnson-eslint-config/rules/base
  */
 
 module.exports = {
